@@ -1,2 +1,1 @@
-# customer-addresses
-Customer’s Addresses Collection App
+# Customer’s Addresses Collection App
